@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tsmisium.github.io/sitemap.tsmisium.gz
+Sitemap: https://tsmisium.github.io/app/sitemap.tsmisium.gz
+Sitemap: https://tsmisium.github.io/assets/sitemap.tsmisium.gz
+Sitemap: https://tsmisium.github.io/css/sitemap.tsmisium.gz
+Sitemap: https://tsmisium.github.io/data/sitemap.tsmisium.gz
+Sitemap: https://tsmisium.github.io/includes/sitemap.tsmisium.gz
+Sitemap: https://tsmisium.github.io/item/sitemap.tsmisium.gz
+Sitemap: https://tsmisium.github.io/src/sitemap.tsmisium.gz
